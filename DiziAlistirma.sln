@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziAlistirma2", "DiziAlist
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziAlistirma3", "DiziAlistirma3\DiziAlistirma3.csproj", "{46F18746-78D8-43FF-AF3F-165B8D0EA824}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiziAlistirma4", "DiziAlistirma4\DiziAlistirma4.csproj", "{82731621-2511-4777-BDBB-37557AE6E370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{46F18746-78D8-43FF-AF3F-165B8D0EA824}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46F18746-78D8-43FF-AF3F-165B8D0EA824}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46F18746-78D8-43FF-AF3F-165B8D0EA824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82731621-2511-4777-BDBB-37557AE6E370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82731621-2511-4777-BDBB-37557AE6E370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82731621-2511-4777-BDBB-37557AE6E370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82731621-2511-4777-BDBB-37557AE6E370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
