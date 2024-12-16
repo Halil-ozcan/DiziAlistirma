@@ -10,6 +10,13 @@ namespace DiziAlistirma3
     {
         static void Main(string[] args)
         {
+            string[] kelime = { "Elma", "Armut", "Muz", "Kivi", "Çilek" };
+
+            Console.WriteLine("Dizinin Ters Sırası");
+            for(int i = kelime.Length - 1; i >= 0; i--)
+            {
+                Console.WriteLine(kelime[i]);
+            }
         }
     }
 }
